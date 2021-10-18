@@ -25,7 +25,7 @@
     "nyc": "^12",
     "ts-node": "^7",
     "tslint": "^5",
-    "typescript": "^3.0"
+    "typescript": "3.9.10"
   },
   "engines": {
     "node": ">=8.0.0"
