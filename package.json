@@ -19,7 +19,7 @@
     "@oclif/tslint": "^1",
     "@types/chai": "^4",
     "@types/mocha": "^5",
-    "@types/node": "^10",
+    "@types/node": "14.17.27",
     "chai": "^4",
     "mocha": "^5",
     "nyc": "^12",
