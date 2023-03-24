@@ -180,12 +180,7 @@
     "@types/node" "*"
 
 "@types/node@*", "@types/node@^10", "@types/node@^10.7.1":
-  version "10.7.1"
-  resolved "https://npm.vgm.tv/@types%2fnode/-/node-10.7.1.tgz#b704d7c259aa40ee052eec678758a68d07132a2e"
-
-"@types/sinon@^5.0.1":
-  version "5.0.1"
-  resolved "https://npm.vgm.tv/@types%2fsinon/-/sinon-5.0.1.tgz#a15b36ec42f1f53166617491feabd1734cb03e21"
+  version "10.17.60"
 
 align-text@^0.1.1, align-text@^0.1.3:
   version "0.1.4"
